@@ -2,3 +2,6 @@ bed
 ball
 leash
 collar
+bowl
+poop bags
+rope dog toy
