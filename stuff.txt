@@ -9,3 +9,5 @@ towel
 boots
 shampoo
 brush
+pendant
+harness
