@@ -11,3 +11,4 @@ shampoo
 brush
 pendant
 harness
+coat
