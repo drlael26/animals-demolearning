@@ -9,3 +9,4 @@ towel
 boots
 shampoo
 brush
+coat
